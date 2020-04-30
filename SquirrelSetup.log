@@ -1,0 +1,2003 @@
+﻿23936> 2019-10-26 15:20:27> Program: Starting Squirrel Updater: --install .
+23936> 2019-10-26 15:20:27> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+23936> 2019-10-26 15:20:27> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+23936> 2019-10-26 15:20:27> SingleGlobalInstance: Grabbing lockfile with timeout of 00:00:10
+23936> 2019-10-26 15:20:27> CheckForUpdateImpl: Reading RELEASES file from C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+23936> 2019-10-26 15:20:28> CheckForUpdateImpl: Remote version 0.0.305 differs from local 
+23936> 2019-10-26 15:20:28> CheckForUpdateImpl: First run or local directory is corrupt, starting from scratch
+23936> 2019-10-26 15:20:28> ApplyReleasesImpl: Writing files to app directory: C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\chrome_100_percent.pak to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\app.ico to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\app.ico
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\chrome_200_percent.pak to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\d3dcompiler_47.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\Discord.exe to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\ffmpeg.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\ffmpeg.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\icudtl.dat to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\icudtl.dat
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\libEGL.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\libEGL.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\natives_blob.bin to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\natives_blob.bin
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\libGLESv2.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\libGLESv2.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\osmesa.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\osmesa.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\resources.pak to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\resources.pak
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\snapshot_blob.bin to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\snapshot_blob.bin
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\v8_context_snapshot.bin to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\v8_context_snapshot.bin
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_core_validation.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\VkLayer_core_validation.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_parameter_validation.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\VkLayer_parameter_validation.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\Squirrel.exe to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Squirrel.exe
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\VkICD_mock_icd.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\VkICD_mock_icd.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_object_tracker.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\VkLayer_object_tracker.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_threading.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\VkLayer_threading.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Moving file C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_unique_objects.dll to C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\VkLayer_unique_objects.dll
+23936> 2019-10-26 15:20:34> ApplyReleasesImpl: Started updateSelf pid 25900
+23936> 2019-10-26 15:20:35> ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe]
+23936> 2019-10-26 15:20:37> Utility: Process Started: C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe --squirrel-install 0.0.305, pid 11440
+23936> 2019-10-26 15:20:38> Utility: Received exitcode 0 from process C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: ran C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe, pid 20960
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: Starting fixPinnedExecutables
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: fixPinnedExecutables: newCurrentFolder: app-0.0.305
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: fixPinnedExecutables: enumerating path C:\Users\yomatthewcool\AppData\Roaming\Microsoft\Windows\Start Menu failed: System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Roaming\Microsoft\Windows\Start Menu\程式集'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.AddSearchableDirsToStack(SearchData localSearchData)
+   於 System.IO.FileSystemEnumerableIterator`1.MoveNext()
+   於 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   於 System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   於 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   於 Squirrel.UpdateManager.ApplyReleasesImpl.fixPinnedExecutables(SemanticVersion newCurrentVersion)
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: Updating shortcut C:\Users\yomatthewcool\Desktop\Discord.lnk
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: Fixing up tray icons
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: cleanDeadVersions: for version 0.0.305
+23936> 2019-10-26 15:20:39> ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-0.0.305
+31504> 2019-10-26 20:10:20> Program: Starting Squirrel Updater: --install .
+31504> 2019-10-26 20:10:20> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+31504> 2019-10-26 20:10:20> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+31504> 2019-10-26 20:10:20> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+31504> 2019-10-26 20:10:20> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+31504> 2019-10-26 20:10:20> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+4472> 2019-10-26 20:10:41> Program: Starting Squirrel Updater: --install .
+4472> 2019-10-26 20:10:41> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+4472> 2019-10-26 20:10:41> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+4472> 2019-10-26 20:10:41> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+4472> 2019-10-26 20:10:41> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+4472> 2019-10-26 20:10:41> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+36132> 2019-10-26 20:13:24> Program: Starting Squirrel Updater: --install .
+36132> 2019-10-26 20:13:24> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+36132> 2019-10-26 20:13:24> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+36132> 2019-10-26 20:13:24> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+36132> 2019-10-26 20:13:24> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+36132> 2019-10-26 20:13:24> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+23444> 2019-10-26 20:14:13> Program: Starting Squirrel Updater: --install .
+23444> 2019-10-26 20:14:13> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+23444> 2019-10-26 20:14:13> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+23444> 2019-10-26 20:14:13> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+23444> 2019-10-26 20:14:13> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+23444> 2019-10-26 20:14:13> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+262740> 2020-04-23 14:44:36> Program: Starting Squirrel Updater: --install .
+262740> 2020-04-23 14:44:36> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+262740> 2020-04-23 14:44:36> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+262740> 2020-04-23 14:44:36> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+262740> 2020-04-23 14:44:36> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+262740> 2020-04-23 14:44:36> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+58240> 2020-04-30 14:48:13> Program: Starting Squirrel Updater: --install .
+58240> 2020-04-30 14:48:13> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+58240> 2020-04-30 14:48:13> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+58240> 2020-04-30 14:48:13> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+58240> 2020-04-30 14:48:13> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+58240> 2020-04-30 14:48:13> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+87436> 2020-04-30 14:49:30> Program: Starting Squirrel Updater: --install .
+87436> 2020-04-30 14:49:30> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+87436> 2020-04-30 14:49:30> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+87436> 2020-04-30 14:49:30> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+87436> 2020-04-30 14:49:30> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+87436> 2020-04-30 14:49:30> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+91404> 2020-04-30 14:50:04> Program: Starting Squirrel Updater: --install .
+91404> 2020-04-30 14:50:04> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+91404> 2020-04-30 14:50:04> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+91404> 2020-04-30 14:50:04> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+91404> 2020-04-30 14:50:04> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+91404> 2020-04-30 14:50:04> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+53532> 2020-04-30 14:50:15> Program: Starting Squirrel Updater: --install .
+53532> 2020-04-30 14:50:15> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+53532> 2020-04-30 14:50:15> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+53532> 2020-04-30 14:50:15> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+53532> 2020-04-30 14:50:16> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+53532> 2020-04-30 14:50:16> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+93724> 2020-04-30 14:50:51> Program: Starting Squirrel Updater: --install .
+93724> 2020-04-30 14:50:51> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+93724> 2020-04-30 14:50:51> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+93724> 2020-04-30 14:50:51> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+93724> 2020-04-30 14:50:51> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+93724> 2020-04-30 14:50:51> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+24400> 2020-04-30 14:50:55> Program: Starting Squirrel Updater: --install .
+24400> 2020-04-30 14:50:55> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+24400> 2020-04-30 14:50:55> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+24400> 2020-04-30 14:50:55> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+24400> 2020-04-30 14:50:55> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+24400> 2020-04-30 14:50:55> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+86452> 2020-04-30 14:51:06> Program: Starting Squirrel Updater: --install .
+86452> 2020-04-30 14:51:06> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+86452> 2020-04-30 14:51:06> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+86452> 2020-04-30 14:51:06> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+86452> 2020-04-30 14:51:06> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+86452> 2020-04-30 14:51:06> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\Discord.exe'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+46812> 2020-04-30 14:52:06> Program: Starting Squirrel Updater: --install .
+46812> 2020-04-30 14:52:06> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+46812> 2020-04-30 14:52:06> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+46812> 2020-04-30 14:52:06> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+46812> 2020-04-30 14:52:06> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+46812> 2020-04-30 14:52:06> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+23916> 2020-04-30 14:53:44> Program: Starting Squirrel Updater: --install .
+23916> 2020-04-30 14:53:44> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+23916> 2020-04-30 14:53:44> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+23916> 2020-04-30 14:53:44> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+23916> 2020-04-30 14:53:44> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+23916> 2020-04-30 14:53:44> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+107160> 2020-04-30 20:51:32> Program: Starting Squirrel Updater: --install .
+107160> 2020-04-30 20:51:32> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+107160> 2020-04-30 20:51:32> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+107160> 2020-04-30 20:51:32> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+107160> 2020-04-30 20:51:32> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+107160> 2020-04-30 20:51:32> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+31392> 2020-04-30 20:53:29> Program: Starting Squirrel Updater: --install .
+31392> 2020-04-30 20:53:29> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+31392> 2020-04-30 20:53:29> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+31392> 2020-04-30 20:53:29> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+31392> 2020-04-30 20:53:29> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+31392> 2020-04-30 20:53:29> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.UnauthorizedAccessException: 拒絕存取路徑 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+110444> 2020-04-30 20:57:42> Program: Starting Squirrel Updater: --install .
+110444> 2020-04-30 20:57:42> Program: Starting install, writing to C:\Users\yomatthewcool\AppData\Local\SquirrelTemp
+110444> 2020-04-30 20:57:42> Program: About to install to: C:\Users\yomatthewcool\AppData\Local\Discord
+110444> 2020-04-30 20:57:42> Program: Install path C:\Users\yomatthewcool\AppData\Local\Discord already exists, burning it to the ground
+110444> 2020-04-30 20:57:42> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+110444> 2020-04-30 20:57:42> Unhandled exception: System.AggregateException: 發生一或多項錯誤。 ---> System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   於 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   於 System.Threading.Tasks.Task.Wait()
+   於 Squirrel.Update.Program.executeCommandLine(String[] args)
+   於 Squirrel.Update.Program.main(String[] args)
+---> (內部例外狀況 #0) System.IO.IOException: 由於另一個處理序正在使用檔案 'C:\Users\yomatthewcool\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   於 System.IO.File.Delete(String path)
+   於 Squirrel.Utility.<>c.<DeleteDirectory>b__22_0(String file)
+   於 Squirrel.Utility.<>c__DisplayClass15_1`1.<ForEachAsync>b__1()
+   於 System.Threading.Tasks.Task.InnerInvoke()
+   於 System.Threading.Tasks.Task.Execute()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c.<<DeleteDirectory>b__22_1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<>c__DisplayClass16_0`1.<<ForEachAsync>b__1>d.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
